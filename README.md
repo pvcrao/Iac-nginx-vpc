@@ -44,4 +44,4 @@ Once applied, open the EC2 instance’s public IP in your browser on port 80.
 - SSH key pair name for EC2
 
 ---
-Created with ❤️ by Shaik Arifulla
+Created with ❤️ by Vishnu Polisetti
